@@ -1,16 +1,11 @@
 ---
 title: Chat Commands
-categories:
-  - guide
-tags:
-  - chat
-  - say
-  - showclips
-  - showtriggers
-  - spectate
-editor: markdown
+description: 
 published: true
-dateCreated: 2024-08-11T12:46:18.787Z
+date: 2024-08-11T05:00:26.660Z
+tags: 
+editor: markdown
+dateCreated: 2024-08-11T01:14:32.760Z
 ---
 
 # WIKIJS WOAW
