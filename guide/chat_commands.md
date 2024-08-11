@@ -9,6 +9,7 @@ tags:
   - showtriggers
   - spectate
 editor: markdown
+published: true
 ---
 
 # WIKIJS WOAW
