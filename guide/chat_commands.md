@@ -2,21 +2,20 @@
 title: Chat Commands
 description: 
 published: true
-date: 2024-08-11T05:00:26.660Z
+date: 2024-08-11T13:29:08.364Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-11T01:14:32.760Z
+dateCreated: 2024-08-11T13:24:29.081Z
 ---
 
-# WIKIJS WOAW
 This guide covers all of the supported chat commands and potential inputs they have. These commands can be entered in chat at any time regardless of being in a lobby or not.
 
-{{< hint info >}}
-All commands are activated by using "/" or "!" or "." and then the trigger keywords listed below. Example: "/spec" or ".spec" or "!spec" all trigger the "Spectate Player" command.
-{{< /hint >}}
-{{< hint danger >}}
-Do not make "say binds"!! Instead, prefer to create binds to the linked commands. There will never be any exclusive chat commands; they all directly tie to console commands/variables!
-{{< /hint >}}
+> All commands are activated by using "/" or "!" or "." and then the trigger keywords listed below. Example: "/spec" or ".spec" or "!spec" all trigger the "Spectate Player" command.
+{.is-info}
+
+> Do not make "say binds"!! Instead, prefer to create binds to the linked commands. There will never be any exclusive chat commands; they all directly tie to console commands/variables!
+{.is-warning}
+
 | Command | Triggers | Functional Equivalent | Examples |
 | :---------------- | :----------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bonus Teleport | **`"b", "bonus"`** | **[`mom_restart <bonus>`](/command/mom_restart)** <br>(or `"/r <bonus>"`) | `/b 2` teleports the player to Bonus Track 2.<br>`/b` does not work and will let you know that it requires a specific track number. Consider doing **`/r`** if you wish to restart the track. |
