@@ -1,14 +1,12 @@
 ---
 title: Chat Commands
-description: 
+description: AAAAAAAAAAAAAA
 published: true
-date: 2024-08-11T14:38:00.624Z
+date: 2024-08-11T15:27:38.626Z
 tags: sausages
 editor: markdown
 dateCreated: 2024-08-11T13:24:29.081Z
 ---
-
-# Chat Commands
 
 This guide covers all of the supported chat commands and potential inputs they have. These commands can be entered in chat at any time regardless of being in a lobby or not.
 
