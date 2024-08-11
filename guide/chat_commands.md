@@ -2,8 +2,8 @@
 title: Chat Commands
 description: 
 published: true
-date: 2024-08-11T13:29:08.364Z
-tags: 
+date: 2024-08-11T13:37:54.369Z
+tags: sausages
 editor: markdown
 dateCreated: 2024-08-11T13:24:29.081Z
 ---
