@@ -1,10 +1,8 @@
 ---
 title: Collectibles
-categories:
-  - guide
-tags:
-  - mapping
-  - collectibles
+tags: mapping, collectibles
+published: true
+editor: markdown
 ---
 
 This guide covers how to use collectibles in Momentum Mod. Collectibles are a tool that lets mappers create non-linear, staged maps.
@@ -25,9 +23,9 @@ Collectibles are any entity that the player must interact with to continue in th
 
 Collectibles are added to the player with the `AddCollectible` input targeted at the player. To create a collectible, choose an entity that can be interacted with. The example below uses a button. Choose an event that will trigger the collection, like `OnPressed` or `OnStartTouch`, and set the target to `!player`. For the input, enter `AddCollectible`. It might not appear in the dropdown, so you may have to type it manually. For a basic collectible, you can leave the parameter override blank. Finally, ensure that your collectible entity is named.
 
-{{< hint warning >}}
-Collectibles will not work if they are not named.
-{{< /hint >}}
+> Collectibles will not work if they are not named.
+{.is-warning}
+
 ![Example Button](/images/collectibles_guide/button_collectible_io_1.png)
 
 ## The Collectible Filter
