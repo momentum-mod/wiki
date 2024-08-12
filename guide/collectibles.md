@@ -1,8 +1,11 @@
 ---
 title: Collectibles
-tags: mapping, collectibles
+description: 
 published: true
+date: 2024-08-12T00:17:43.538Z
+tags: mapping, collectibles
 editor: markdown
+dateCreated: 2024-08-12T00:02:42.120Z
 ---
 
 This guide covers how to use collectibles in Momentum Mod. Collectibles are a tool that lets mappers create non-linear, staged maps.
@@ -26,6 +29,7 @@ Collectibles are added to the player with the `AddCollectible` input targeted at
 > Collectibles will not work if they are not named.
 {.is-warning}
 
+![Example Button](/button_collectible_io_1.png)
 ![Example Button](/images/collectibles_guide/button_collectible_io_1.png)
 
 ## The Collectible Filter
