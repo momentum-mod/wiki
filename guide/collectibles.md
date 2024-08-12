@@ -2,7 +2,7 @@
 title: Collectibles
 description: 
 published: true
-date: 2024-08-12T00:21:31.143Z
+date: 2024-08-12T00:55:48.800Z
 tags: mapping, collectibles
 editor: markdown
 dateCreated: 2024-08-12T00:02:42.120Z
