@@ -2,7 +2,7 @@
 title: Collectibles
 description: 
 published: true
-date: 2024-08-12T00:17:43.538Z
+date: 2024-08-12T00:17:49.776Z
 tags: mapping, collectibles
 editor: markdown
 dateCreated: 2024-08-12T00:02:42.120Z
@@ -30,7 +30,6 @@ Collectibles are added to the player with the `AddCollectible` input targeted at
 {.is-warning}
 
 ![Example Button](/button_collectible_io_1.png)
-![Example Button](/images/collectibles_guide/button_collectible_io_1.png)
 
 ## The Collectible Filter
 
